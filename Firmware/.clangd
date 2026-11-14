@@ -1,0 +1,10 @@
+CompileFlags:
+  CompilationDatabase: ../build/Debug
+  Compiler: C:/SOFT/STM32CubeCLT_1.18.0/GNU-tools-for-STM32/bin/arm-none-eabi-gcc.exe
+
+Index:
+  Background: Build
+
+Diagnostics:
+  UnusedIncludes: None
+  MissingIncludes: None

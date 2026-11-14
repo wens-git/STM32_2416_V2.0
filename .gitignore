@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.idea/
+build/
+cmake-build-debug/
+HostTool/build/
+HostTool/dist/
+HostTool/__pycache__/
+HostTool/last_config.json
+*.spec.bak

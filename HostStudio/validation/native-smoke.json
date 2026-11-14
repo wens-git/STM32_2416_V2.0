@@ -1,0 +1,31 @@
+{
+  "ok": true,
+  "checks": [
+    "offline startup",
+    "QWebChannel mock connection",
+    "eight axes",
+    "polling preserves point draft",
+    "point write",
+    "point readback",
+    "absolute motion completion",
+    "home parameter write/readback",
+    "home accepted",
+    "home completes asynchronously",
+    "unbound home button disabled",
+    "pointer starts jog",
+    "pointer release stops jog",
+    "24 inputs and 16 outputs",
+    "command history present",
+    "compact window has no horizontal page overflow",
+    "disconnect"
+  ],
+  "screenshots": [
+    "01-overview-offline",
+    "02-overview",
+    "03-axes",
+    "04-homing",
+    "05-io",
+    "06-diagnostics",
+    "07-axes-1180x760"
+  ]
+}
